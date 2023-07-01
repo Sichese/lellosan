@@ -1,0 +1,34 @@
+{
+  "welcome": "Le plus beau du monde aujourd'hui",
+  "weekday": {
+    "Sunday": "Dimanche",
+    "Monday": "Lundi",
+    "Tuesday": "Mardi",
+    "Wednesday": "Mercredi",
+    "Thursday": "Jeudi",
+    "Friday": "Vendredi",
+    "Saturday": "Samedi"
+  },
+  "month": {
+    "January": "Janvier",
+    "February": "Février",
+    "March": "Mars",
+    "April": "Avril",
+    "May": "Mai",
+    "June": "Juin",
+    "July": "Juillet",
+    "August": "Août",
+    "September": "Septembre",
+    "October": "Octobre",
+    "November": "Novembre",
+    "December": "Décembre"
+  },
+  "languageSelector": {
+    "selectLanguage": "Choisissez votre pays",
+    "it": "Italie",
+    "en": "Royaume-Uni",
+    "fr": "France"
+  },
+  "is": "est",
+  "disclaimer": "Le choix du plus beau du jour a été fait à l'échelle mondiale et suppose que le Suprême, alias Luca PuisDemain, est hors concours en raison d'une supériorité manifeste."
+}

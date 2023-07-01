@@ -1,0 +1,34 @@
+{
+  "welcome": "The most beautiful in the world today",
+  "weekday": {
+    "Sunday": "Sunday",
+    "Monday": "Monday",
+    "Tuesday": "Tuesday",
+    "Wednesday": "Wednesday",
+    "Thursday": "Thursday",
+    "Friday": "Friday",
+    "Saturday": "Saturday"
+  },
+  "month": {
+    "January": "January",
+    "February": "February",
+    "March": "March",
+    "April": "April",
+    "May": "May",
+    "June": "June",
+    "July": "July",
+    "August": "August",
+    "September": "September",
+    "October": "October",
+    "November": "November",
+    "December": "December"
+  },
+  "languageSelector": {
+    "selectLanguage": "Choose Your Country",
+    "it": "Italy",
+    "en": "United Kingdom",
+    "fr": "France"
+  },
+  "is": "is",
+  "disclaimer": "The choice of the most beautiful of the day has been made globally and assumes that the Supreme, aka Luca ThenTomorrow, is out of competition due to manifest superiority."
+}

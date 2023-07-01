@@ -1,0 +1,34 @@
+{
+  "welcome": "Il più bello del mondo di oggi",
+  "weekday": {
+    "Sunday": "Domenica",
+    "Monday": "Lunedì",
+    "Tuesday": "Martedì",
+    "Wednesday": "Mercoledì",
+    "Thursday": "Giovedì",
+    "Friday": "Venerdì",
+    "Saturday": "Sabato"
+  },
+  "month": {
+    "January": "Gennaio",
+    "February": "Febbraio",
+    "March": "Marzo",
+    "April": "Aprile",
+    "May": "Maggio",
+    "June": "Giugno",
+    "July": "Luglio",
+    "August": "Agosto",
+    "September": "Settembre",
+    "October": "Ottobre",
+    "November": "Novembre",
+    "December": "Dicembre"
+  },
+  "languageSelector": {
+    "selectLanguage": "Scegli il tuo Paese",
+    "it": "Italia",
+    "en": "Regno Unito",
+    "fr": "Francia"
+  },
+  "is": "è",
+  "disclaimer": "La scelta del più bello del giorno è stata effettuata a livello Globale e presuppone che il Sommo, aka Luca Poidomani, sia fuori concorso per manifesta superiorità."
+}
