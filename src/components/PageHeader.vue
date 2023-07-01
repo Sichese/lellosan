@@ -15,7 +15,7 @@ export default {
       const locale = this.$i18n.locale;
       const translatedMonth = new Intl.DateTimeFormat(locale, options).formatToParts(currentDate)
         .find(part => part.type === 'month').value;
-      return `${welcomeMsg}, ${translatedMonth} ${currentDate.getDate()} ${currentDate.getFullYear()} ${is}`;
+      return `${welcomeMsg} ${currentDate.getDate()} ${translatedMonth} ${currentDate.getFullYear()} ${is}`;
     },
   },
 };

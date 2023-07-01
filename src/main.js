@@ -8,6 +8,7 @@ const i18n = createI18n({
     en: require("./locales/en.json"),
     fr: require("./locales/fr.json"),
     it: require("./locales/it.json"),
+    ci: require("./locales/ci.json"),
   },
 });
 

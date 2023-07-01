@@ -1,6 +1,6 @@
 <template>
     <div class="credits">
-      <a class="github-link" href="https://github.com/your-username/your-repository">
+      <a class="github-link" href="https://github.com/Sichese/lellosan">
         <img class="github-icon" src="../assets/github-mark.png" alt="GitHub" />
       </a>
     </div>
