@@ -25,9 +25,9 @@
     },
     "languageSelector": {
       "selectLanguage": "选择您的国家",
-      "it": "意大利",
-      "en": "英国",
-      "fr": "法国",
+      "it": "Italia",
+      "en": "United Kingdom",
+      "fr": "France",
       "ci": "中国"
     },
     "is": "是",
