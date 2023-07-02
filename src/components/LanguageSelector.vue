@@ -36,16 +36,20 @@ export default {
   },
   methods: {
     changeLanguage() {
-      this.isLoading = true;
       this.$i18n.locale = this.selectedLanguage;
       localStorage.setItem("selectedLanguage", this.selectedLanguage);
     },
   },
   mounted() {
     const storedLanguage = localStorage.getItem("selectedLanguage");
-    if (storedLanguage && ["en", "fr", "it"].includes(storedLanguage)) {
+    if (storedLanguage && ["en", "fr", "it", "ci"].includes(storedLanguage)) {
       this.selectedLanguage = storedLanguage;
       this.$i18n.locale = storedLanguage;
+    }
+    else {
+      // Default language
+      this.selectedLanguage = "it";
+      this.$i18n.locale = "it";
     }
   },
 };
