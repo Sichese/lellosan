@@ -1,0 +1,37 @@
+{
+    "welcome": "Die Schönste der Welt heute",
+    "weekday": {
+      "Sunday": "Sonntag",
+      "Monday": "Montag",
+      "Tuesday": "Dienstag",
+      "Wednesday": "Mittwoch",
+      "Thursday": "Donnerstag",
+      "Friday": "Freitag",
+      "Saturday": "Samstag"
+    },
+    "month": {
+      "January": "Januar",
+      "February": "Februar",
+      "March": "März",
+      "April": "April",
+      "May": "Mai",
+      "June": "Juni",
+      "July": "Juli",
+      "August": "August",
+      "September": "September",
+      "October": "Oktober",
+      "November": "November",
+      "December": "Dezember"
+    },
+    "languageSelector": {
+      "selectLanguage": "Wählen Sie Ihr Land",
+      "it": "Italia",
+      "en": "United Kingdom",
+      "fr": "France",
+      "de": "Deutschland",
+      "ci": "中国"
+    },
+    "is": "ist",
+    "disclaimer": "Die Wahl des schönsten Tages wurde global getroffen und setzt voraus, dass der Erhabene, auch bekannt als Luca DannMorgen, aufgrund offensichtlicher Überlegenheit außer Konkurrenz steht."
+  }
+  

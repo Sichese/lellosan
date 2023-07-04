@@ -26,9 +26,10 @@
   "languageSelector": {
     "selectLanguage": "Scegli il tuo Paese",
     "it": "Italia",
-    "en": "United Kingdom",
-    "fr": "France",
-    "ci": "中国"
+      "en": "United Kingdom",
+      "fr": "France",
+      "de": "Deutschland",
+      "ci": "中国"
   },
   "is": "è",
   "disclaimer": "La scelta del più bello del giorno è stata effettuata a livello Globale e presuppone che il Sommo, aka Luca Poidomani, sia fuori concorso per manifesta superiorità."

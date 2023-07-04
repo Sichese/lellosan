@@ -13,6 +13,7 @@
         <option value="it">{{ $t('languageSelector.it') }}</option>
         <option value="en">{{ $t('languageSelector.en') }}</option>
         <option value="fr">{{ $t('languageSelector.fr') }}</option>
+        <option value="de">{{ $t('languageSelector.de') }}</option>
         <option value="ci">{{ $t('languageSelector.ci') }}</option>
       </select>
     </div>

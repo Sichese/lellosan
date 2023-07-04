@@ -14,6 +14,11 @@ export default {
       required: true,
     },
   },
+  data() {
+    return {
+      imgMaxNumber: 21, // Set to store generated numbers
+    };
+  },
   computed: {
     imageSrc() {
       return require("../assets/lello/lello" + this.getRandomDice() + ".png");
@@ -24,7 +29,7 @@ export default {
   },
   methods: {
     getRandomDice() {
-      return Math.floor(Math.random() * 10) + 1;
+      return Math.floor(Math.random() * this.imgMaxNumber) + 1;
     },
   },
 };

@@ -3,12 +3,13 @@ import App from "./App.vue";
 import { createI18n } from "vue-i18n";
 
 const i18n = createI18n({
-  locale: "en",
+  locale: "it",
   messages: {
     en: require("./locales/en.json"),
     fr: require("./locales/fr.json"),
     it: require("./locales/it.json"),
     ci: require("./locales/ci.json"),
+    de: require("./locales/de.json"),
   },
 });
 
